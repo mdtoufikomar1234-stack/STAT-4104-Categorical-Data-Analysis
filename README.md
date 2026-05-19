@@ -1,1 +1,4 @@
 # STAT-4104-Categorical-Data-Analysis
+Name : MD TOUFIK OMAR
+ID : 12110065
+REG : 000015928
